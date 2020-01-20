@@ -14,10 +14,14 @@
  Τα υλικά που θα χρειαστούμε είναι:
  1 Arduino Mega
  4 LDR 
- 2 micro servos
- 1 μικρό φωτοβολταϊκό πάνελ
  1 Bluetooth Module for Arduino - HC05 ή HC06
  1 Relay Module - 4 Channel
  1 κολλητήρι 
  μερικά  Jumper Wires
  1 τροφοδοτικό για το Arduino 
+ 2 Aluminum GT2 Timing Pulley - 20 Tooth - 4mm Bore
+ 2 Belt Locking Spring - for GT2 Belts
+ 2 Metal Gearmotor 25mm - 30RPM 6V
+ 2 Shaft Hub 3mm
+ 2 Timing Belt GT2 - 500mm
+ 2 Φωτοβολταϊκές Κυψέλες 1W 125x63mm
